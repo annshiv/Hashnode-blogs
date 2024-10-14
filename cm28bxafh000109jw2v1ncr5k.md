@@ -10,7 +10,7 @@ tags: javascript, web-development, html5, html-canvas
 
 ---
 
-The HTML Canvas element is a powerful tool that enables web developers to draw graphics, manipulate images, and create dynamic visual content directly on web pages. Whether it's basic shapes, complex paths, or intricate effects, canvas opens up a world of creative possibilities for both simple illustrations and advanced interactive applications. In this blog, I’ll walk you through the essential concepts I learned from my recent LinkedIn Learning course on HTML Canvas, covering everything from drawing techniques to transformations and compositing methods. Whether you’re just getting started or looking to enhance your canvas skills, this guide offers key takeaways to help you master HTML Canvas in your projects.
+The HTML Canvas element is a powerful tool that enables web developers to draw graphics, manipulate images, and create dynamic visual content directly on web pages. Whether it's basic shapes, complex paths, or intricate effects, canvas opens up a world of creative possibilities for both simple illustrations and advanced interactive applications. In this blog, I’ll walk you through the essential concepts I learned from my recent LinkedIn Learning course on HTML Canvas, covering everything from drawing techniques to transformations and compositing methods. Whether you’re just getting started or looking to enhance your canvas skills.
 
 ### Draw rectangle
 
